@@ -1,1 +1,1 @@
-print test
+print ("Hello Mr. A")
